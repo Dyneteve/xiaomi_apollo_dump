@@ -1,0 +1,5 @@
+service vendor.light /vendor/bin/hw/android.hardware.lights-service.apollo
+    class hal
+    user system
+    group system
+    shutdown critical

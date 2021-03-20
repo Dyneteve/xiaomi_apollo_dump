@@ -1,0 +1,12 @@
+# List of sub-device specific modules to not load automatically
+blocklist exfat.ko
+blocklist fragmentize.ko
+blocklist gspca_main.ko
+blocklist lcd.ko
+blocklist llcc_perfmon.ko
+blocklist mpq-adapter.ko
+blocklist mpq-dmx-hw-plugin.ko
+blocklist rdbg.ko
+blocklist rmnet_shs.ko
+blocklist rmnet_perf.ko
+blocklist sla.ko
