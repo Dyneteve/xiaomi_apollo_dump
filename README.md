@@ -1,0 +1,14 @@
+# hentai_apollo-user 11 RQ2A.210305.006 WhoTao.20210304 release-keys
+- manufacturer: 
+- platform: kona
+- codename: apollo
+- flavor: hentai_apollo-user
+- release: 11
+- id: RQ2A.210305.006
+- incremental: WhoTao.20210304
+- tags: release-keys
+- fingerprint: Xiaomi/hentai_apollo/apollo:11/RQ2A.210305.006/WhoTao.20210304:user/release-keys
+- is_ab: false
+- brand: Xiaomi
+- branch: hentai_apollo-user-11-RQ2A.210305.006-WhoTao.20210304-release-keys
+- repo: xiaomi_apollo_dump

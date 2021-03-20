@@ -1,0 +1,14 @@
+kernel=kernel
+ramdisk=ramdisk
+dt=dt.img
+page_size=4096
+kernel_size=50583564
+ramdisk_size=1721479
+dtb_size=2
+base_addr=0x00000000
+kernel_offset=0x00008000
+ramdisk_offset=0x01000000
+tags_offset=0x00000100
+cmd_line='androidboot.verifiedbootstate=green androidboot.vbmeta.device_state=locked console=ttyMSM0,115200n8 androidboot.console=ttyMSM0 printk.devkmsg=on androidboot.hardware=qcom msm_rtb.filter=0x237 ehci-hcd.park=3 service_locator.enable=1 androidboot.memcg=1 cgroup.memory=nokmem lpm_levels.sleep_disabled=1 androidboot.usbcontroller=a600000.dwc3 swiotlb=2048 loop.max_part=7 kpti=off buildvariant=user'
+board=""
+format=gzip
